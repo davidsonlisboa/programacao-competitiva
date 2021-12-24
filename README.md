@@ -1,2 +1,3 @@
 # programacao-competitiva
-Contests de MC621 (desafios de programação). Problemas do CodeForces, UVA etc.
+
+O nome e número do problema está comentado no início de cada arquivo. O enunciado pode ser encontrado no site do CodeForces.
